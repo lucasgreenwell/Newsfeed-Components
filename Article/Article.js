@@ -144,7 +144,6 @@ function makeArticle (data){
 
   //adding classes
   article.classList.add('article');
-  console.log(article);
   date.classList.add('date');
   expandButton.classList.add('expandButton');
 
